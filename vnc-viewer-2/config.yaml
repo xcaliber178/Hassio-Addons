@@ -1,5 +1,5 @@
 name: Ender2
-version: 1.6.0
+version: 1.6.1
 slug: vnc2
 panel_icon: fapro:ender2-v3#fullcolor
 description: A noVNC client integrated in Home Assistant
