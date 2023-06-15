@@ -1,5 +1,5 @@
 name: Ender3
-version: 1.6.1
+version: 1.6.0
 slug: vnc3
 panel_icon: fapro:ender3-v3#fullcolor
 description: A noVNC client integrated in Home Assistant
