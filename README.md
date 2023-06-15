@@ -1,4 +1,4 @@
-# Poeschl Home Assistant Supervisor Add-ons
+# Xcaliber178 Home Assistant Supervisor Add-ons (Poeschl)
 
 [![Main build][build-badge]][build-url]
 ![GitHub commit activity][commit-badge]
@@ -10,21 +10,11 @@ My repository with Add-ons for the [Home Assistant (former Hass.io) system](http
 
 ## Addons
 
-* ICantBelieveItsNotValetudo - Valetudo Companion for map generation.
-* MaryTTS - A local Text-To-Speech system.
-* PicoTTS - Text to speech voice sinthesizer from SVox, included in Android AOSP.
-* pigpio - The pigpio led control for the Raspberry as addon.
-* MPD - A small media player with minimalistic web ui.
-* valetudo-mapper - Valetudo RE Companion for map generation
-* ympd - A very lightweight Web interface for controlling MPD music servers.
+
 * Git Exporter - Exports your Home Assistant config to any git repository (secrets check included)
-* Syncthing - A de-centralized file syncronisation program. Focused on privacy.
 * rsync - Synces folders from Home Assistant to a other machine via rsync and ssh.
 * rsync-local - Synces folders to local devices like usb-sticks.
 * VNC Viewer - A VNC viewer addon, to integrate VNC displays into HA.
-* Mopidy - A media player with web interface.
-* Asterisk - An open source framework for building communications applications.
-* OWASP Juice Shop - The most trustworthy online shop out there. A totally unsecure plattform.
 
 More about the Add-ons can be found in their folders.
 
@@ -34,14 +24,6 @@ More about the Add-ons can be found in their folders.
 Those addons might not be stable at all. Use at your own risk!
 
 🏜️
-
-### 🕸️ Depreciated
-
-On thoes addons will be not developed anymore. Feel free to fork them.
-
-* Docker Container Stats - Lightwight monitoring of all the running docker containers.
-* OWASP ZAP - A security testing tool with MITM funtionality.
-* mitmproxy - A simple MITM proxy to trace network requests.
 
 ## Installation
 
