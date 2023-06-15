@@ -1,9 +1,9 @@
-name: VNC Viewer
+name: VNC Viewer 2
 version: 1.6.0
-slug: vnc
+slug: vnc2
 panel_icon: mdi:remote-desktop
 description: A noVNC client integrated in Home Assistant
-url: https://github.com/Poeschl/Hassio-Addons/tree/main/vnc-viewer
+url: https://github.com/xcaliber178/Hassio-Addons/tree/main/vnc-viewer
 ingress: true
 ingress_port: 6080
 ingress_entry: vnc.html?autoconnect=true
