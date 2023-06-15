@@ -1,5 +1,5 @@
 ARG BUILD_FROM
-FROM $BUILD_FROM AS NO_VNC
+FROM $BUILD_FROM AS NO_VNC_2
 
 RUN apt-get update && apt-get -y --no-install-recommends install \
     git=1:2.35.1-1
