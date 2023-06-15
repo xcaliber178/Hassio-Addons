@@ -1,7 +1,7 @@
-name: VNC Viewer 1
+name: Ender1
 version: 1.6.0
 slug: vnc1
-panel_icon: mdi:remote-desktop
+panel_icon: fapro:ender1-v3#fullcolor
 description: A noVNC client integrated in Home Assistant
 url: https://github.com/xcaliber178/Hassio-Addons/tree/main/vnc-viewer-1
 ingress: true
